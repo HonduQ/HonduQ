@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HonduQ
-- 👀 I’m interested in coding and learning new things!
-- 🌱 I’m currently learning about Python, Github, deployment, and lots more!
-- 💞️ I’m looking to collaborate on projects... in the future.
+- 👀 I’m interested in solving problems, finding efficient solutions, and refactoring to improve performance
+- 🌱 I’m currently learning about Python, Github, and mySQL
+- 💞️ I’m looking to collaborate on fun, small projects.
 - 📫 How to reach me: HonduQ@gmail.com
 
 <!---
