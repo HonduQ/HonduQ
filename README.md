@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cliff.
 - 👀 I’m interested in Python, Django, Flask, MySQL, JavaScript, Algorithms, & GitHub.
-- 🌱 I’m currently learning about recursion (HackerHero) and Flask.
+- 🌱 I’m currently learning about recursion (HackerHero) and Flask (Coding Dojo).
 - 💞️ I’m looking to collaborate on fun, small projects.
 - 📫 How to reach me: HonduQ@gmail.com
 
