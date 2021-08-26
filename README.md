@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun, small projects.
 - 📫 How to reach me: HonduQ@gmail.com
 
-Thanks for stopping in, shoot me an email if you want to connect, I'd love to hear from you.
+Thanks for stopping in, shoot me an email if you want to connect!
 
 "He who walks with the wise will be wise."
 <!---
