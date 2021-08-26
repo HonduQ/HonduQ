@@ -6,7 +6,6 @@
 
 Thanks for stopping in, shoot me an email if you want to connect!
 
-"He who walks with the wise will be wise."
 <!---
 HonduQ/HonduQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
