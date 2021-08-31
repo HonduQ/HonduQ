@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cliff.
 - 👀 I’m interested in problem solving, puzzles, abstract concepts and games.
-- 🌱 I’m currently learning about sorting algorithms (HackerHero) and documentation (https://guides.lib.berkeley.edu/how-to-write-good-documentation).
+- 🌱 I’m currently learning about algorithms (HackerHero)
 - 💞️ I’m looking to collaborate on fun, small projects.
 - 📫 How to reach me: HonduQ@gmail.com
 
