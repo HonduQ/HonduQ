@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Cliff.
-- 👀 I’m interested in problem solving, puzzles, abstract concepts and games.
-- 🌱 I’m currently wrestling with sorting algorithms on HackerHero.
-- 📫 How to reach me: HonduQ@gmail.com
+Hi, I’m Cliff.
+I’m currently building a Barn Manager app with my cousin and mentor, Matt.
 
-Thanks for stopping in, send me an email if you want to connect! 
+Thanks for stopping in, send me an email if you want to connect! You can reach me at HonduQ@gmail.com.
 
 <!---
 HonduQ/HonduQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
