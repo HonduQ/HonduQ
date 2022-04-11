@@ -9,6 +9,8 @@ My current focus of study is `Middleware in NextJS`, specifically `authenticatin
 Thanks for stopping in! You can reach me at `HonduQ@gmail.com`
 
 <!---
+Algorithms: HackerHero
+
 Interests:
 -Truth
 -Love
