@@ -13,7 +13,7 @@ About me:
   - culture, languages, and customs
   - personal development
   - fiction and worldbuilding
-6) Things `I love to`:
+6) `I love to`:
   - Spend time with my family
   - Help out on the family horse farm
   - Read books and listen to podcasts (see list of interests above)
@@ -21,15 +21,16 @@ About me:
   - Play games (video/board/pen and paper/sports games)
   - Worldbuild and write
 7) Things `I will miss` about my current job:
-  - Working outside with my hands on trains
-  - The people I've gotten to know and grow with
-  - Getting to know new people and spend time training them regularly
-8) Things `I'm looking forward to` with my next job:
+  - Working outside with my hands on `trains`
+  - The `people` I've gotten to know
+  - `Being very good at something I have worked hard to learn`
+8) In my next job, `I'm looking forward to`:
   - `Working through obstacles` and `learning to view problems as opportunities to grow`
   - Learning to appreciate `little successes each day`
   - `Working from home`
   - `Stretching my brain daily`
   - Getting to `invest in a career with many different paths to success`
+  - Getting to `be very good at something I am working hard to learn`
 
 Thanks for stopping in! You can reach me at `HonduQ@gmail.com`
 
