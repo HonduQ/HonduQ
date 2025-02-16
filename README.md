@@ -1,3 +1,5 @@
+<!---
+
 Hello, I’m Cliff. 
 
 About me:
@@ -34,7 +36,6 @@ About me:
 
 Thanks for stopping in! You can reach me at `HonduQ@gmail.com`
 
-<!---
 Algorithms: HackerHero
 
 Interests:
